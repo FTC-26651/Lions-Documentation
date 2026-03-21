@@ -12,5 +12,5 @@ NextFTC is a command-based library with other utilities built in. There are two 
 NextFTC is not the only library in the NextFTC ecosystem. One of the other libraries in the ecosystem is NextControl. NextControl covers control systems. I won't go into much detail here, as [CTRL ALT FTC](https://www.ctrlaltftc.com/) already does a great job explaining everything. However, the goal of a control system is to move something to a desired state. This could be moving an arm to a specific position, or moving a flywheel to a specific velocity.
 
 The final library in the NextFTC ecosystem is NextBindings. NextBindings is a command-based bindings library. It supports binding commands to buttons, and much more. It supports rising and falling edge detection, automatic gamepad polling, and joystick curving. I have not had the pleasure of using NextBindings all that much, but it is a very powerful library.
-
+---
 [PreviousPage](https://github.com/FTC-26651/Lions-Documentation/blob/main/Programmers/Learn%20Coding%20for%20FTC.md)
