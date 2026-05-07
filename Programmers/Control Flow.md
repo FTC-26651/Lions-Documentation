@@ -33,3 +33,5 @@ Mercurial (Kind of, though not really)
 
 ---
 [Previous Page](https://github.com/FTC-26651/Lions-Documentation/blob/main/Programmers/Libraries.md)
+
+[Next Page](https://github.com/FTC-26651/Lions-Documentation/blob/main/Programmers/Control%20Systems.md)
